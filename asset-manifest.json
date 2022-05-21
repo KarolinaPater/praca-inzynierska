@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/praca-inzynierska/static/css/main.69bb6b92.css",
+    "main.js": "/praca-inzynierska/static/js/main.1df8ade0.js",
+    "static/media/logoup.png": "/praca-inzynierska/static/media/logoup.a4a40dfde78ad88125e1.png",
+    "index.html": "/praca-inzynierska/index.html",
+    "main.69bb6b92.css.map": "/praca-inzynierska/static/css/main.69bb6b92.css.map",
+    "main.1df8ade0.js.map": "/praca-inzynierska/static/js/main.1df8ade0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bb6b92.css",
+    "static/js/main.1df8ade0.js"
+  ]
+}
